@@ -1,7 +1,3 @@
-# hello-world
-Creating the first repository
+# Crew_Estimation
 
-Hi Humans!
-
-Hubot here, I like Node.js and Coffescript (that's what U'm made off).
-I've had tacos on the moon and find them far superior to Earth tacos.
+O objetivo desse trabalho é determinar a tripulação necessária para a operação de um navio, usando dados de entrada como tamanho, peso, capacidade de passageiros e idade do navio. Nesse trabalho foi usado a biblioteca pyspark juntamente com seu pacote de aprendizado de máquina.
